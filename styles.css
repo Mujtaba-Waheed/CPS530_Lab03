@@ -1,0 +1,22 @@
+<style>
+#grad {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  }
+  
+  b, h1{
+  text-shadow: 2px 2px 5px red;
+}
+
+p {
+  background-color: pink;
+  color: red;
+}
+
+li,h1,h2,h3,h4,h5{
+	color: black;
+}
+
+img {
+  border: 5px solid black;
+}
+</style>
